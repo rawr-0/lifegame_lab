@@ -99,7 +99,6 @@ class GameOfLife:
                     pos2 = i - self.cell_size
                     break
             self.grid[pos1][pos2] = 1
-            print(pos1, pos2)
 
     def set_dead(self, pos):
         if pos[0] <= self.height:
