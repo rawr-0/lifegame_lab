@@ -12,7 +12,6 @@ The rules of the game are straightforward:
 5. If a dead cell has exactly three live neighbors, it becomes alive.
 
 This program includes several key features to enhance the user experience, including:
-1. Customizable starting configurations: Users can create their own starting configurations or choose from a variety of pre-set examples.
-2. Multiple simulation speeds: Users can control the speed at which the simulation runs, allowing for detailed analysis of the evolving patterns.
-3. Graphical User Interface (GUI): The program includes a user-friendly interface with visualization tools, making it easy to navigate and observe the evolving patterns.
-4. Endless field: The field of cells extends infinitely in all directions, allowing for endless exploration of different patterns.
+1. Multiple simulation speeds: Users can control the speed at which the simulation runs, allowing for detailed analysis of the evolving patterns.
+2. Graphical User Interface (GUI): The program includes a user-friendly interface with visualization tools, making it easy to navigate and observe the evolving patterns.
+3. Endless field: The field of cells extends infinitely in all directions, allowing for endless exploration of different patterns.
