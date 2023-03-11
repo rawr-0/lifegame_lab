@@ -1,6 +1,5 @@
 # lifegame
 Game of Life using pygame
-Certainly, here's the updated description with the additional key feature:
 
 This program is a simulation of Conway's Game of Life, a classic example of a cellular automaton. This program was created as a student project, and is designed to be both informative and engaging. The program allows users to create an initial configuration of cells, which then evolve according to simple rules, creating complex patterns over time.
 
